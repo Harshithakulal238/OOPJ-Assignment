@@ -1,0 +1,800 @@
+Booking ID: B1
+Tourist: John
+Package: Himalayan Adventure
+Price: 15000.0
+Destinations: [Grand Canyon, London]
+Discount Applied: 10%
+Total: 13500.0
+
+Booking ID: B2
+Tourist: Emma
+Package: South India Heritage
+Price: 20000.0
+Destinations: [London, Edinburgh]
+Discount Applied: 10%
+Total: 18000.0
+
+Booking ID: B3
+Tourist: Michael
+Package: Kerala Backwaters
+Price: 25000.0
+Destinations: [Edinburgh, Taj Mahal]
+Discount Applied: 10%
+Total: 22500.0
+
+Booking ID: B4
+Tourist: Sophia
+Package: Outback Explorer
+Price: 30000.0
+Destinations: [Taj Mahal, Kerala Backwaters]
+Discount Applied: 10%
+Total: 27000.0
+
+Booking ID: B5
+Tourist: Liam
+Package: Golden Triangle
+Price: 10000.0
+Destinations: [Kerala Backwaters, Sydney]
+Discount Applied: 10%
+Total: 9000.0
+
+Booking ID: B6
+Tourist: Olivia
+Package: Himalayan Adventure
+Price: 15000.0
+Destinations: [Sydney, Great Barrier Reef]
+Discount Applied: 10%
+Total: 13500.0
+
+Booking ID: B7
+Tourist: Noah
+Package: South India Heritage
+Price: 20000.0
+Destinations: [Great Barrier Reef, Paris]
+Discount Applied: 10%
+Total: 18000.0
+
+Booking ID: B8
+Tourist: Ava
+Package: Kerala Backwaters
+Price: 25000.0
+Destinations: [Paris, Eiffel Tower]
+Discount Applied: 10%
+Total: 22500.0
+
+Booking ID: B9
+Tourist: James
+Package: Outback Explorer
+Price: 30000.0
+Destinations: [Eiffel Tower, Tokyo]
+Discount Applied: 10%
+Total: 27000.0
+
+Booking ID: B10
+Tourist: Isabella
+Package: Golden Triangle
+Price: 10000.0
+Destinations: [Tokyo, Mount Fuji]
+Discount Applied: 10%
+Total: 9000.0
+
+Booking ID: B11
+Tourist: William
+Package: Himalayan Adventure
+Price: 15000.0
+Destinations: [Mount Fuji, Cape Town]
+Discount Applied: 10%
+Total: 13500.0
+
+Booking ID: B12
+Tourist: Mia
+Package: South India Heritage
+Price: 20000.0
+Destinations: [Cape Town, Table Mountain]
+Discount Applied: 10%
+Total: 18000.0
+
+Booking ID: B13
+Tourist: Benjamin
+Package: Kerala Backwaters
+Price: 25000.0
+Destinations: [Table Mountain, Rio de Janeiro]
+Discount Applied: 10%
+Total: 22500.0
+
+Booking ID: B14
+Tourist: Amelia
+Package: Outback Explorer
+Price: 30000.0
+Destinations: [Rio de Janeiro, Christ the Redeemer]
+Discount Applied: 10%
+Total: 27000.0
+
+Booking ID: B15
+Tourist: Lucas
+Package: Golden Triangle
+Price: 10000.0
+Destinations: [Christ the Redeemer, Rome]
+Discount Applied: 10%
+Total: 9000.0
+
+Booking ID: B16
+Tourist: Charlotte
+Package: Himalayan Adventure
+Price: 15000.0
+Destinations: [Rome, Colosseum]
+Discount Applied: 10%
+Total: 13500.0
+
+Booking ID: B17
+Tourist: Henry
+Package: South India Heritage
+Price: 20000.0
+Destinations: [Colosseum, Beijing]
+Discount Applied: 10%
+Total: 18000.0
+
+Booking ID: B18
+Tourist: Harper
+Package: Kerala Backwaters
+Price: 25000.0
+Destinations: [Beijing, Great Wall of China]
+Discount Applied: 10%
+Total: 22500.0
+
+Booking ID: B19
+Tourist: Alexander
+Package: Outback Explorer
+Price: 30000.0
+Destinations: [Great Wall of China, New York City]
+Discount Applied: 10%
+Total: 27000.0
+
+Booking ID: B20
+Tourist: Evelyn
+Package: Golden Triangle
+Price: 10000.0
+Destinations: [New York City, Grand Canyon]
+Discount Applied: 10%
+Total: 9000.0
+
+Booking ID: B21
+Tourist: Mason
+Package: Himalayan Adventure
+Price: 15000.0
+Destinations: [Grand Canyon, London]
+Discount Applied: 10%
+Total: 13500.0
+
+Booking ID: B22
+Tourist: Abigail
+Package: South India Heritage
+Price: 20000.0
+Destinations: [London, Edinburgh]
+Discount Applied: 10%
+Total: 18000.0
+
+Booking ID: B23
+Tourist: Ethan
+Package: Kerala Backwaters
+Price: 25000.0
+Destinations: [Edinburgh, Taj Mahal]
+Discount Applied: 10%
+Total: 22500.0
+
+Booking ID: B24
+Tourist: Ella
+Package: Outback Explorer
+Price: 30000.0
+Destinations: [Taj Mahal, Kerala Backwaters]
+Discount Applied: 10%
+Total: 27000.0
+
+Booking ID: B25
+Tourist: Jacob
+Package: Golden Triangle
+Price: 10000.0
+Destinations: [Kerala Backwaters, Sydney]
+Discount Applied: 10%
+Total: 9000.0
+
+Booking ID: B26
+Tourist: Scarlett
+Package: Himalayan Adventure
+Price: 15000.0
+Destinations: [Sydney, Great Barrier Reef]
+Discount Applied: 10%
+Total: 13500.0
+
+Booking ID: B27
+Tourist: Logan
+Package: South India Heritage
+Price: 20000.0
+Destinations: [Great Barrier Reef, Paris]
+Discount Applied: 10%
+Total: 18000.0
+
+Booking ID: B28
+Tourist: Grace
+Package: Kerala Backwaters
+Price: 25000.0
+Destinations: [Paris, Eiffel Tower]
+Discount Applied: 10%
+Total: 22500.0
+
+Booking ID: B29
+Tourist: Daniel
+Package: Outback Explorer
+Price: 30000.0
+Destinations: [Eiffel Tower, Tokyo]
+Discount Applied: 10%
+Total: 27000.0
+
+Booking ID: B30
+Tourist: Chloe
+Package: Golden Triangle
+Price: 10000.0
+Destinations: [Tokyo, Mount Fuji]
+Discount Applied: 10%
+Total: 9000.0
+
+Booking ID: B31
+Tourist: Matthew
+Package: Himalayan Adventure
+Price: 15000.0
+Destinations: [Mount Fuji, Cape Town]
+Discount Applied: 10%
+Total: 13500.0
+
+Booking ID: B32
+Tourist: Victoria
+Package: South India Heritage
+Price: 20000.0
+Destinations: [Cape Town, Table Mountain]
+Discount Applied: 10%
+Total: 18000.0
+
+Booking ID: B33
+Tourist: David
+Package: Kerala Backwaters
+Price: 25000.0
+Destinations: [Table Mountain, Rio de Janeiro]
+Discount Applied: 10%
+Total: 22500.0
+
+Booking ID: B34
+Tourist: Aria
+Package: Outback Explorer
+Price: 30000.0
+Destinations: [Rio de Janeiro, Christ the Redeemer]
+Discount Applied: 10%
+Total: 27000.0
+
+Booking ID: B35
+Tourist: Joseph
+Package: Golden Triangle
+Price: 10000.0
+Destinations: [Christ the Redeemer, Rome]
+Discount Applied: 10%
+Total: 9000.0
+
+Booking ID: B36
+Tourist: Luna
+Package: Himalayan Adventure
+Price: 15000.0
+Destinations: [Rome, Colosseum]
+Discount Applied: 10%
+Total: 13500.0
+
+Booking ID: B37
+Tourist: Samuel
+Package: South India Heritage
+Price: 20000.0
+Destinations: [Colosseum, Beijing]
+Discount Applied: 10%
+Total: 18000.0
+
+Booking ID: B38
+Tourist: Zoey
+Package: Kerala Backwaters
+Price: 25000.0
+Destinations: [Beijing, Great Wall of China]
+Discount Applied: 10%
+Total: 22500.0
+
+Booking ID: B39
+Tourist: Gabriel
+Package: Outback Explorer
+Price: 30000.0
+Destinations: [Great Wall of China, New York City]
+Discount Applied: 10%
+Total: 27000.0
+
+Booking ID: B40
+Tourist: Hannah
+Package: Golden Triangle
+Price: 10000.0
+Destinations: [New York City, Grand Canyon]
+Discount Applied: 10%
+Total: 9000.0
+
+Booking ID: B41
+Tourist: Andrew
+Package: Himalayan Adventure
+Price: 15000.0
+Destinations: [Grand Canyon, London]
+Discount Applied: 10%
+Total: 13500.0
+
+Booking ID: B42
+Tourist: Penelope
+Package: South India Heritage
+Price: 20000.0
+Destinations: [London, Edinburgh]
+Discount Applied: 10%
+Total: 18000.0
+
+Booking ID: B43
+Tourist: Carter
+Package: Kerala Backwaters
+Price: 25000.0
+Destinations: [Edinburgh, Taj Mahal]
+Discount Applied: 10%
+Total: 22500.0
+
+Booking ID: B44
+Tourist: Lillian
+Package: Outback Explorer
+Price: 30000.0
+Destinations: [Taj Mahal, Kerala Backwaters]
+Discount Applied: 10%
+Total: 27000.0
+
+Booking ID: B45
+Tourist: Elijah
+Package: Golden Triangle
+Price: 10000.0
+Destinations: [Kerala Backwaters, Sydney]
+Discount Applied: 10%
+Total: 9000.0
+
+Booking ID: B46
+Tourist: Addison
+Package: Himalayan Adventure
+Price: 15000.0
+Destinations: [Sydney, Great Barrier Reef]
+Discount Applied: 10%
+Total: 13500.0
+
+Booking ID: B47
+Tourist: Owen
+Package: South India Heritage
+Price: 20000.0
+Destinations: [Great Barrier Reef, Paris]
+Discount Applied: 10%
+Total: 18000.0
+
+Booking ID: B48
+Tourist: Aubrey
+Package: Kerala Backwaters
+Price: 25000.0
+Destinations: [Paris, Eiffel Tower]
+Discount Applied: 10%
+Total: 22500.0
+
+Booking ID: B49
+Tourist: Ryan
+Package: Outback Explorer
+Price: 30000.0
+Destinations: [Eiffel Tower, Tokyo]
+Discount Applied: 10%
+Total: 27000.0
+
+Booking ID: B50
+Tourist: Ellie
+Package: Golden Triangle
+Price: 10000.0
+Destinations: [Tokyo, Mount Fuji]
+Discount Applied: 10%
+Total: 9000.0
+
+Booking ID: B51
+Tourist: Nathan
+Package: Himalayan Adventure
+Price: 15000.0
+Destinations: [Mount Fuji, Cape Town]
+Discount Applied: 10%
+Total: 13500.0
+
+Booking ID: B52
+Tourist: Stella
+Package: South India Heritage
+Price: 20000.0
+Destinations: [Cape Town, Table Mountain]
+Discount Applied: 10%
+Total: 18000.0
+
+Booking ID: B53
+Tourist: Caleb
+Package: Kerala Backwaters
+Price: 25000.0
+Destinations: [Table Mountain, Rio de Janeiro]
+Discount Applied: 10%
+Total: 22500.0
+
+Booking ID: B54
+Tourist: Nora
+Package: Outback Explorer
+Price: 30000.0
+Destinations: [Rio de Janeiro, Christ the Redeemer]
+Discount Applied: 10%
+Total: 27000.0
+
+Booking ID: B55
+Tourist: Jack
+Package: Golden Triangle
+Price: 10000.0
+Destinations: [Christ the Redeemer, Rome]
+Discount Applied: 10%
+Total: 9000.0
+
+Booking ID: B56
+Tourist: Riley
+Package: Himalayan Adventure
+Price: 15000.0
+Destinations: [Rome, Colosseum]
+Discount Applied: 10%
+Total: 13500.0
+
+Booking ID: B57
+Tourist: Christian
+Package: South India Heritage
+Price: 20000.0
+Destinations: [Colosseum, Beijing]
+Discount Applied: 10%
+Total: 18000.0
+
+Booking ID: B58
+Tourist: Lyla
+Package: Kerala Backwaters
+Price: 25000.0
+Destinations: [Beijing, Great Wall of China]
+Discount Applied: 10%
+Total: 22500.0
+
+Booking ID: B59
+Tourist: Hunter
+Package: Outback Explorer
+Price: 30000.0
+Destinations: [Great Wall of China, New York City]
+Discount Applied: 10%
+Total: 27000.0
+
+Booking ID: B60
+Tourist: Aaliyah
+Package: Golden Triangle
+Price: 10000.0
+Destinations: [New York City, Grand Canyon]
+Discount Applied: 10%
+Total: 9000.0
+
+Booking ID: B61
+Tourist: Levi
+Package: Himalayan Adventure
+Price: 15000.0
+Destinations: [Grand Canyon, London]
+Discount Applied: 10%
+Total: 13500.0
+
+Booking ID: B62
+Tourist: Layla
+Package: South India Heritage
+Price: 20000.0
+Destinations: [London, Edinburgh]
+Discount Applied: 10%
+Total: 18000.0
+
+Booking ID: B63
+Tourist: Isaac
+Package: Kerala Backwaters
+Price: 25000.0
+Destinations: [Edinburgh, Taj Mahal]
+Discount Applied: 10%
+Total: 22500.0
+
+Booking ID: B64
+Tourist: Hazel
+Package: Outback Explorer
+Price: 30000.0
+Destinations: [Taj Mahal, Kerala Backwaters]
+Discount Applied: 10%
+Total: 27000.0
+
+Booking ID: B65
+Tourist: Anthony
+Package: Golden Triangle
+Price: 10000.0
+Destinations: [Kerala Backwaters, Sydney]
+Discount Applied: 10%
+Total: 9000.0
+
+Booking ID: B66
+Tourist: Violet
+Package: Himalayan Adventure
+Price: 15000.0
+Destinations: [Sydney, Great Barrier Reef]
+Discount Applied: 10%
+Total: 13500.0
+
+Booking ID: B67
+Tourist: Thomas
+Package: South India Heritage
+Price: 20000.0
+Destinations: [Great Barrier Reef, Paris]
+Discount Applied: 10%
+Total: 18000.0
+
+Booking ID: B68
+Tourist: Aurora
+Package: Kerala Backwaters
+Price: 25000.0
+Destinations: [Paris, Eiffel Tower]
+Discount Applied: 10%
+Total: 22500.0
+
+Booking ID: B69
+Tourist: Sebastian
+Package: Outback Explorer
+Price: 30000.0
+Destinations: [Eiffel Tower, Tokyo]
+Discount Applied: 10%
+Total: 27000.0
+
+Booking ID: B70
+Tourist: Savannah
+Package: Golden Triangle
+Price: 10000.0
+Destinations: [Tokyo, Mount Fuji]
+Discount Applied: 10%
+Total: 9000.0
+
+Booking ID: B71
+Tourist: Charles
+Package: Himalayan Adventure
+Price: 15000.0
+Destinations: [Mount Fuji, Cape Town]
+Discount Applied: 10%
+Total: 13500.0
+
+Booking ID: B72
+Tourist: Brooklyn
+Package: South India Heritage
+Price: 20000.0
+Destinations: [Cape Town, Table Mountain]
+Discount Applied: 10%
+Total: 18000.0
+
+Booking ID: B73
+Tourist: Eli
+Package: Kerala Backwaters
+Price: 25000.0
+Destinations: [Table Mountain, Rio de Janeiro]
+Discount Applied: 10%
+Total: 22500.0
+
+Booking ID: B74
+Tourist: Paisley
+Package: Outback Explorer
+Price: 30000.0
+Destinations: [Rio de Janeiro, Christ the Redeemer]
+Discount Applied: 10%
+Total: 27000.0
+
+Booking ID: B75
+Tourist: Joshua
+Package: Golden Triangle
+Price: 10000.0
+Destinations: [Christ the Redeemer, Rome]
+Discount Applied: 10%
+Total: 9000.0
+
+Booking ID: B76
+Tourist: Skylar
+Package: Himalayan Adventure
+Price: 15000.0
+Destinations: [Rome, Colosseum]
+Discount Applied: 10%
+Total: 13500.0
+
+Booking ID: B77
+Tourist: Isaiah
+Package: South India Heritage
+Price: 20000.0
+Destinations: [Colosseum, Beijing]
+Discount Applied: 10%
+Total: 18000.0
+
+Booking ID: B78
+Tourist: Bella
+Package: Kerala Backwaters
+Price: 25000.0
+Destinations: [Beijing, Great Wall of China]
+Discount Applied: 10%
+Total: 22500.0
+
+Booking ID: B79
+Tourist: Aaron
+Package: Outback Explorer
+Price: 30000.0
+Destinations: [Great Wall of China, New York City]
+Discount Applied: 10%
+Total: 27000.0
+
+Booking ID: B80
+Tourist: Claire
+Package: Golden Triangle
+Price: 10000.0
+Destinations: [New York City, Grand Canyon]
+Discount Applied: 10%
+Total: 9000.0
+
+Booking ID: B81
+Tourist: Luke
+Package: Himalayan Adventure
+Price: 15000.0
+Destinations: [Grand Canyon, London]
+Discount Applied: 10%
+Total: 13500.0
+
+Booking ID: B82
+Tourist: Lucy
+Package: South India Heritage
+Price: 20000.0
+Destinations: [London, Edinburgh]
+Discount Applied: 10%
+Total: 18000.0
+
+Booking ID: B83
+Tourist: Adrian
+Package: Kerala Backwaters
+Price: 25000.0
+Destinations: [Edinburgh, Taj Mahal]
+Discount Applied: 10%
+Total: 22500.0
+
+Booking ID: B84
+Tourist: Anna
+Package: Outback Explorer
+Price: 30000.0
+Destinations: [Taj Mahal, Kerala Backwaters]
+Discount Applied: 10%
+Total: 27000.0
+
+Booking ID: B85
+Tourist: Nicholas
+Package: Golden Triangle
+Price: 10000.0
+Destinations: [Kerala Backwaters, Sydney]
+Discount Applied: 10%
+Total: 9000.0
+
+Booking ID: B86
+Tourist: Samantha
+Package: Himalayan Adventure
+Price: 15000.0
+Destinations: [Sydney, Great Barrier Reef]
+Discount Applied: 10%
+Total: 13500.0
+
+Booking ID: B87
+Tourist: Jonathan
+Package: South India Heritage
+Price: 20000.0
+Destinations: [Great Barrier Reef, Paris]
+Discount Applied: 10%
+Total: 18000.0
+
+Booking ID: B88
+Tourist: Caroline
+Package: Kerala Backwaters
+Price: 25000.0
+Destinations: [Paris, Eiffel Tower]
+Discount Applied: 10%
+Total: 22500.0
+
+Booking ID: B89
+Tourist: Christopher
+Package: Outback Explorer
+Price: 30000.0
+Destinations: [Eiffel Tower, Tokyo]
+Discount Applied: 10%
+Total: 27000.0
+
+Booking ID: B90
+Tourist: Genesis
+Package: Golden Triangle
+Price: 10000.0
+Destinations: [Tokyo, Mount Fuji]
+Discount Applied: 10%
+Total: 9000.0
+
+Booking ID: B91
+Tourist: Dominic
+Package: Himalayan Adventure
+Price: 15000.0
+Destinations: [Mount Fuji, Cape Town]
+Discount Applied: 10%
+Total: 13500.0
+
+Booking ID: B92
+Tourist: Sadie
+Package: South India Heritage
+Price: 20000.0
+Destinations: [Cape Town, Table Mountain]
+Discount Applied: 10%
+Total: 18000.0
+
+Booking ID: B93
+Tourist: Ezra
+Package: Kerala Backwaters
+Price: 25000.0
+Destinations: [Table Mountain, Rio de Janeiro]
+Discount Applied: 10%
+Total: 22500.0
+
+Booking ID: B94
+Tourist: Allison
+Package: Outback Explorer
+Price: 30000.0
+Destinations: [Rio de Janeiro, Christ the Redeemer]
+Discount Applied: 10%
+Total: 27000.0
+
+Booking ID: B95
+Tourist: Angel
+Package: Golden Triangle
+Price: 10000.0
+Destinations: [Christ the Redeemer, Rome]
+Discount Applied: 10%
+Total: 9000.0
+
+Booking ID: B96
+Tourist: Autumn
+Package: Himalayan Adventure
+Price: 15000.0
+Destinations: [Rome, Colosseum]
+Discount Applied: 10%
+Total: 13500.0
+
+Booking ID: B97
+Tourist: Colton
+Package: South India Heritage
+Price: 20000.0
+Destinations: [Colosseum, Beijing]
+Discount Applied: 10%
+Total: 18000.0
+
+Booking ID: B98
+Tourist: Eva
+Package: Kerala Backwaters
+Price: 25000.0
+Destinations: [Beijing, Great Wall of China]
+Discount Applied: 10%
+Total: 22500.0
+
+Booking ID: B99
+Tourist: Austin
+Package: Outback Explorer
+Price: 30000.0
+Destinations: [Great Wall of China, New York City]
+Discount Applied: 10%
+Total: 27000.0
+
+Booking ID: B100
+Tourist: Emilia
+Package: Golden Triangle
+Price: 10000.0
+Destinations: [New York City, Grand Canyon]
+Discount Applied: 10%
+Total: 9000.0
+
