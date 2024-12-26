@@ -20,5 +20,9 @@ Methods:confirmBooking(), displayBookingDetails()
 Class:Discountable.java	
 Mtehod: calculateDiscount(double price)
 
+Class:BookingManager.java
+Attributes:packageBookings (Map<String, Integer>)
+Methods:BookingManager(),canBook(TourPackage tourPackage),addBooking(TourPackage tourPackage), displayBookingStatus(TourPackage tourPackage)
+
 Public class: TestClass.java	Main class to run the program	Reads from input1.txt, creates objects, and writes to output1.txt
 
